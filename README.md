@@ -5,7 +5,7 @@ Authors:
 Wisam Reid cs184-ds
 Eddie Groshev cs184-en
 
-Porjects URL: http://www-inst.cs.berkeley.edu/~cs184-ds/Projects/projects.html
+Projects URL: http://www-inst.cs.berkeley.edu/~cs184-ds/Projects/projects.html
 
 #### Platform 
     
