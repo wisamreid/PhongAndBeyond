@@ -4,7 +4,6 @@ PhongAndBeyond
 Authors:
 Wisam Reid cs184-ds
 Eddie Groshev cs184-en
-repository @ https://github.com/EdsterG/PhongAndBeyond
 
 #### Platform 
     
